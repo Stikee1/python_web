@@ -7,4 +7,4 @@ for i in range(len(lista)):
     result=a+b
     if (result==12):
       print(a,b)
-
+      
